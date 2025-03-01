@@ -1,16 +1,5 @@
 ## 📌 **Google Places Autocomplete App**
-A **React-based web application** that allows users to **search for places using Google Places Autocomplete**, view them on **Google Maps**, and save search history with the option to mark places as favorites.
-
----
-
-## 🚀 **Features**
-✅ **Google Places Autocomplete** – Search and select places dynamically.  
-✅ **Google Maps Integration** – View selected places on an interactive map.  
-✅ **Redux Toolkit for State Management** – Stores search history in Redux state.  
-✅ **Search History with Delete Option** – View past searches and clear history with a trash icon 🗑️.  
-✅ **Mark as Favorite** – Save locations as favorites with a button click.  
-✅ **Material UI for Styling** – Responsive, modern UI with a clean design.  
-✅ **Fully Responsive** – Works on both desktop and mobile.  
+A **React-based web application** that allows users to **search for places using Google Places Autocomplete** and view them on **Google Maps**.
 
 ---
 
@@ -87,5 +76,4 @@ Now, open **`http://localhost:5173/`** in your browser.
 1️⃣ **Type a place** in the search bar – results appear dynamically.  
 2️⃣ **Select a location** – it will be displayed on Google Maps.  
 3️⃣ **View Search History** – previously searched places appear below.  
-4️⃣ **Click "Save as Favorite"** – mark a place as a favorite.  
-5️⃣ **Click the 🗑️ trash icon** – clears the search history.
+4️⃣ **Click the 🗑️ trash icon** – clears the search history.
