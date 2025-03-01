@@ -15,36 +15,6 @@ A **React-based web application** that allows users to **search for places using
 
 ---
 
-## 📂 **Project Structure**
-📸 **Project Folder Screenshot:**  
-![Project Folder Structure]
-
-```
-google-places-app/
-│── src/
-│   ├── assets/                   # Images and static assets
-│   ├── components/
-│   │   ├── SearchBar.jsx         # Search input with Google Places Autocomplete
-│   │   ├── MapView.jsx           # Displays the selected location on Google Maps
-│   │   ├── SearchHistory.jsx     # Displays search history with delete/favorite options
-│   ├── pages/
-│   │   ├── HomePage.jsx          # Main page with layout
-│   ├── redux/
-│   │   ├── store.js              # Redux store setup
-│   │   ├── placeSlice.js         # Redux slice for managing searches
-│   ├── services/
-│   │   ├── api.js                # Handles API calls (if needed)
-│   ├── App.jsx                    # Root component
-│   ├── main.jsx                   # Renders the app
-│   ├── App.css                    # Styles
-│   ├── vite.config.js              # Vite configuration
-│── .env                            # Environment variables (API keys)
-│── package.json                    # Dependencies
-│── README.md                       # Project documentation
-```
-
----
-
 ## 🔧 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
